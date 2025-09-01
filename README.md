@@ -7,4 +7,4 @@
 ---
 
 ### 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emirsahin&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emirshn&layout=compact&theme=tokyonight)
