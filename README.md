@@ -1,7 +1,7 @@
 # Hi, I'm Emir 👋
 
 - 🔭 I’m currently working on: Recommendation systems
-- 🌱 I’m learning: Machine Learning, Vue, FastAPI, Data Scienece
+- 🌱 I’m learning: Machine Learning, Data Science, Vue, FastAPI
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mehmet-emir-sahin/)
 
 ---
